@@ -1,4 +1,4 @@
-# Frontline Hobbies Product Scraper
+# Product Details Scraper
 
 This project automates the process of scraping product data from the Frontline Hobbies website. It extracts information such as product name, price, availability, and reviews for all products under the Kyosho brand.
 
